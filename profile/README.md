@@ -108,7 +108,7 @@
 
 | 구분             | 사용 기술                                         |
 |--|--|
-| **Frontend**  | React, JavaScript, Vitei |
+| **Frontend**  | React, JavaScript, Vite |
 | **Backend**   | Java, Spring, Spring Boot, Spring Batch, JWT |
 | **Infra**   | Git Actions, Docker, Nginx, AWS RDS(MySQL), Route 53, ACM, EC2, S3 |
 | **Tools** | Figma, Notion, Github, Vscode, IntelliJ, Swagger |
